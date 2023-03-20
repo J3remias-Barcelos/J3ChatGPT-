@@ -7,7 +7,7 @@ inputQuestion.addEventListener("keypress", (e) => {
 });
 
 
-const OPENAI_API_KEY = "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";
+const OPENAI_API_KEY = "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";
 
 // FUNÇÃO RESPONSÁVEL POR CONSUMIR A API DO ChatGPT!
 function SendQuestion() {
